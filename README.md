@@ -2,6 +2,8 @@
 
 > Fetching data server-side and client-side for Universal apps using Redux
 
+> ❌ Sorry, but this library is no longer maintained. Please find an alternative.
+
 ## Summary
 
 Fetching data server-side and client-side for Universal apps using [Redux](https://github.com/reactjs/redux). Asynchronous data fetching is really hard on Universal apps, because server-side rendering usually doesn't wait for data to be fetched before returning HTML. The purpose of this library is to simplify data fetching by using a single pattern for client-side and server-side logic.
@@ -12,7 +14,7 @@ This library is based on [React Router](https://reacttraining.com/react-router).
 
 (The MIT License)
 
-Copyright (c) 2018 Nicolas Cava
+Copyright (c) 2020 Nicolas Cava
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
